@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\bin\Debug\net6.0\DataLayerEClinic.deps.json
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\bin\Debug\net6.0\DataLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\bin\Debug\net6.0\DataLayerEClinic.pdb
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\refint\DataLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\DataLayerEClinic.pdb
+C:\Users\Admin\source\repos\EClinic\DataLayerEClinic\DataLayerEClinic\obj\Debug\net6.0\ref\DataLayerEClinic.dll

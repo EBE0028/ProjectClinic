@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\bin\Debug\net6.0\BusinessLayerEClinic.deps.json
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\bin\Debug\net6.0\BusinessLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\bin\Debug\net6.0\BusinessLayerEClinic.pdb
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\bin\Debug\net6.0\DataLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\bin\Debug\net6.0\DataLayerEClinic.pdb
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.csproj.CopyComplete
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\refint\BusinessLayerEClinic.dll
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\BusinessLayerEClinic.pdb
+C:\Users\Admin\source\repos\EClinic\BusinessLayerEClinic\BusinessLayerEClinic\obj\Debug\net6.0\ref\BusinessLayerEClinic.dll
